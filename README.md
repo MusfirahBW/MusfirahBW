@@ -9,7 +9,7 @@
 - 🌱 **Currently learning:**  
   Everything and anything tech-related! 🤖  
 - 📝 **Writing Articles:**  
-  Check out my work on **[Delft Stack]([https://delftstack.com](https://www.delftstack.com/author/musfirah/))** and **[Medium]([https://medium.com](https://medium.com/@musfirahwaseem.04))**.  
+  Check out my work on **[Delft Stack](https://www.delftstack.com/author/musfirah/)** and **[Medium](https://medium.com/@musfirahwaseem.04)**.  
 
 ---
 
@@ -88,11 +88,11 @@
 
 ## 🏆 Certifications  
 
-- **[Harvard Certificate in Data Science: R Basics](#)** (2021)  
-- **[Google Cybersecurity Course](#)** (8 Submodules) – Google (2023)  
-- **[Build AR Powered E-commerce Site](#)** – Open Weaver (August 2022)  
-- **[Harvard Certificate in CS50’s Introduction to Computer Science](#)** (2022)  
-- **[Foundations of User Experience (UX) Design](#)** – Google (2023)  
+- **Harvard Certificate in Data Science: R Basics** (2021)  
+- **Google Cybersecurity Course** (8 Submodules) – Google (2023)  
+- **Build AR Powered E-commerce Site** – Open Weaver (August 2022)  
+- **Harvard Certificate in CS50’s Introduction to Computer Science** (2022)  
+- **Foundations of User Experience (UX) Design** – Google (2023)  
 
 ---
 
@@ -107,7 +107,8 @@
 
 ✨ My work has always been driven by a passion for delivering excellence, be it crafting precise code or producing high-quality, research-backed content.  
 
-🔗 **[Check out my Upwork Profile here!]([https://www.upwork.com](https://www.upwork.com/freelancers/~01cf516a271d250e8b?mp_source=share))**  
+🔗 **[Check out my Upwork Profile here!](https://www.upwork.com/freelancers/~01cf516a271d250e8b?mp_source=share)**  
+
 
 ---
 
