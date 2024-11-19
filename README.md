@@ -76,6 +76,19 @@
 - **Skills**: HTML, HTML5, Cascading Style Sheets (CSS), Node.js, WordPress Design  
 
 --- 
+## ✍️ Medium Blogs  
+
+Here are some of my recent blogs on Medium where I share insights and knowledge about technology and industry trends:  
+
+- **Do You Know the Difference Between Horizontal and Vertical Scaling?**  
+  In this article, I explain the key distinctions between horizontal and vertical scaling, helping readers understand their implications for system performance and resource management.  
+  👉 [Read it on Medium](https://medium.com/@musfirahwaseem.04/do-you-know-the-difference-between-horizontal-and-vertical-scaling-87a57e165c3b)  
+
+- **Why Is Everyone Hopping on the DevOps Train?**  
+  This blog dives into the growing popularity of DevOps, exploring its benefits and why businesses are adopting it for streamlined software development and delivery.  
+  👉 [Read it on Medium](https://medium.com/@musfirahwaseem.04/why-is-everyone-hopping-on-the-devops-train-e932dd5ff39c)  
+
+---
 
 ### 🌐 Connect with Me
 <p align="left">
