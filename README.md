@@ -39,6 +39,9 @@
 
 ## 📂 Projects  
 
+### **A Task Manager API built using JWT-based authentication, Flask Blueprints, and SQLAlchemy** (Jan 2025)  
+- **Skills**: Python, Flask, Postman API, Flask Blueprint, SQLAlchemy ORM, Java Web Tokens
+
 ### **Voting App Deployment using Docker Compose** (Sept 2024)  
 - **Skills**: Docker, MERN stack, Python, Kubernetes, Kyverno, Istio  
 
